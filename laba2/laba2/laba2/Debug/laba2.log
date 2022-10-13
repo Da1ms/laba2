@@ -1,0 +1,17 @@
+﻿Построение начато 10.10.2022 10:30:01.
+     1>Проект "D:\logica\laba2\laba2\laba2\laba2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\laba2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         laba2.vcxproj -> D:\logica\laba2\laba2\Debug\laba2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\laba2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\laba2.lastbuildstate".
+     1>Построение проекта "D:\logica\laba2\laba2\laba2\laba2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.18
